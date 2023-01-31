@@ -1,0 +1,115 @@
+{
+  "signup": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "isactive": true,
+      "password": "admin"
+    },
+    {
+      "id": "accounts",
+      "name": "accounts",
+      "email": "accounts@gmail.com",
+      "role": "accounts",
+      "isactive": true,
+      "password": "accounts"
+    },
+    {
+      "id": "inttl",
+      "name": "international",
+      "email": "international@gmail.com",
+      "role": "int team lead",
+      "isactive": true,
+      "password": "inttl"
+    },
+    {
+      "id": "int",
+      "name": "international",
+      "email": "international@gmail.com",
+      "role": "international",
+      "isactive": true,
+      "password": "int"
+    },
+    {
+      "id": "dom",
+      "name": "domestic",
+      "email": "domestic@gmail.com",
+      "role": "dom team lead",
+      "isactive": true,
+      "password": "domtl"
+    },
+    {
+      "id": "dom",
+      "name": "domestic",
+      "email": "domestic@gmail.com",
+      "role": "domestic",
+      "isactive": true,
+      "password": "dom"
+    }
+  ],
+  "leadsList": [
+    {
+      "partnername": "executive one",
+      "partnerlocation": "Hyderabad",
+      "raisedby": "Tharun",
+      "raisedphone": "837432034",
+      "customername": "Varun",
+      "customerphone": "3472389743",
+      "customerlocation": "Vijayawada",
+      "destination": "Goa",
+      "number": "5",
+      "startdate": "2023-01-02",
+      "id": 1
+    }
+  ],
+  "role": [
+    {
+      "name": "Dom Team Lead",
+      "code": "dom team lead"
+    },
+    {
+      "name": "Int Team Lead",
+      "code": "int team lead"
+    },
+    {
+      "name": "Dom",
+      "code": "Dom"
+    },
+    {
+      "name": "Int",
+      "code": "int"
+    },
+    {
+      "name": "Operations",
+      "code": "operations"
+    },
+    {
+      "name": "Accounts",
+      "code": "accounts"
+    },
+    {
+      "name": "Admin",
+      "code": "admin"
+    },
+    {
+      "name": "HR",
+      "code": "hr"
+    }
+  ],
+  "itinerary": [],
+  "financial": [
+    {
+      "transactiondate": "2023-01-30",
+      "transactionparticular": "Nothing",
+      "transactiontype": "salary",
+      "ghrn": "GHR12345",
+      "amount": "30000",
+      "bankname": "HDFC",
+      "transactionnumber": "TR12345",
+      "type": "credit",
+      "id": 1
+    }
+  ]
+}
